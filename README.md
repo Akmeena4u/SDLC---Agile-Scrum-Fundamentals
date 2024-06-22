@@ -1,1 +1,1 @@
-# SDLC---Agile-Scrum-Fundamentals
+# SDLC-Agile-Scrum-Fundamentals

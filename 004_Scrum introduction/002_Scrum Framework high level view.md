@@ -20,6 +20,8 @@
 1. **Product Owner**: Maximizes the value of the product by managing the product backlog and ensuring the team is delivering value.
 2. **Scrum Master**: Facilitates Scrum processes, coaches the team on Scrum practices, and helps remove impediments. Not a manager or project manager.
 3. **Developers**: Build and test the product increment, handle detailed work, including design if needed.
+4. ![image](https://github.com/Akmeena4u/SDLC-Agile-Scrum-Fundamentals/assets/93425334/a55aba74-f955-4b1f-a727-95415676c287)
+
 
 ### Events (Time-boxed)
 1. **Sprint**: A fixed time period (maximum of one month) during which a potentially shippable product increment is created.
